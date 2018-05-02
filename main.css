@@ -1,0 +1,24 @@
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #808080;
+}
+
+.formDiv {
+	max-width: 80%;
+	margin: 50px auto;
+}
+
+.buttonDiv {
+	text-align: center;
+}
+
+
+
+
+th, tr {
+	text-align: center;
+}
